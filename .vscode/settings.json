@@ -1,5 +1,0 @@
-{
-    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
-    "typescript.format.insertSpaceAfterConstructor": true,
-    "javascript.referencesCodeLens.showOnAllFunctions": true
-}
