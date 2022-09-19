@@ -25,6 +25,7 @@ The Name Blockchain contains two parts: Block and Chain
 ## Hyperledger Fabric — The Transaction Flow
 
 Here is the simplified transaction flow in Hyperledger Fabric (how a transaction is submitted and written into the Blockchain ledger, I assume that there is no error):
+
     The client sends a transaction request to Backend with Hyperledger Fabric SDK. (Client → SDK)
 
     Backend forms a transaction proposal and sends it to the Peer Node. (SDK → Peer)
@@ -38,7 +39,9 @@ Here is the simplified transaction flow in Hyperledger Fabric (how a transaction
     Peer nodes validate the transaction, commit the transaction into the Blockchain ledger, and send transaction committed notification to Backend. (Peer → SDK)
 
     Backend sends success notification to the Client. (SDK → Client)
-Overall, the flow: Client → SDK → Peer → SDK → Orderer → Peer → SDK → Client. The path is kind of long…
 
 
-for more informations: <link>https://kctheservant.medium.com/understanding-first-network-example-in-hyperledger-fabric-part-1-c03391af798</link>
+Overall, the flow: Client → SDK → Peer → SDK → Orderer → Peer → SDK → Client. 
+
+
+ <link>https://kctheservant.medium.com/understanding-first-network-example-in-hyperledger-fabric-part-1-c03391af798</link>
