@@ -3,7 +3,7 @@
 ## What is Blockchain?
 
     Blockchain is a distribu=ted ledger that powers bitcoin. Satoshi invented bitcoin, and blockchain was the key component. Blockchain is highly secured and works around a decentralized consensus algorithm where no one can own the control completely.
-
+   
 The Name Blockchain contains two parts: Block and Chain 
 
     Block: Is a set of transactions that happen over the network .
@@ -30,7 +30,7 @@ Here is the simplified transaction flow in Hyperledger Fabric (how a transaction
     Backend forms a transaction proposal and sends it to the Peer Node. (SDK → Peer)
 
     Peer node executes smart contract (chaincode) and sends the result to Backend. (Peer → SDK)
-
+   
     Backend sends the transaction to Orderer node. (SDK → Orderer)
 
     Orderer node will collect some number of transactions (or trigger timeout) and orders for those transactions. Then, it packs those transactions into a Block and broadcasts to Peer nodes. (Orderer → Peer)
