@@ -1,7 +1,3 @@
-Quest 1 :
-<li>twinAccounts</li>
-
-</br>
 Quest 2 :
  <li>basicWallet</li>
 <li>generateAdress</li>
