@@ -4,10 +4,6 @@ Quest 2 :
 <li>generateAdress</li>
 
 </br>
-
-Quest 3 :
-          <li>TimeIsMoney</li>
-         <li>generateAdress</li>
 </br>
 
 Quest 4 :
