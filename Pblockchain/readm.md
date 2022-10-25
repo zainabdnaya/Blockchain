@@ -1,32 +1,42 @@
 
 Quest 2 :
-          basicWallet
-          generateAdress
+ <li>basicWallet</li>
+<li>generateAdress</li>
+
+</br>
 
 Quest 3 :
-          TimeIsMoney
-          generateAdress
+          <li>TimeIsMoney</li>
+         <li>generateAdress</li>
+</br>
 
 Quest 4 :
-          localNode
-          sendHash
-          checkDocument
-          register
+          <li>localNode</li>
+          <li>sendHash</li>
+          <li>checkDocument</li>
+          register</li>
+</br>
 
-Quest 7 : Token Sale
-          Usable token
-          Basic Swap
-          Eventful token
-          Transfers History
+Quest 6 : 
+          <li>Token Sale</li>
+          <li>Usable token</li>
+          <li>Basic Swap</li>
+          <li>Eventful token</li>
+          <li>Transfers History</li>
+</br>
 
-Quest 7 : Napping cats
-          Showcase
-          Automated reveal
+Quest 7 :
+<li>Napping cats</li>
+         <li> Showcase</li>
+          <li>Automated reveal</li>
+</br>
 
-Quest 8 : stablecoin
-          Lending Platform
-          Test and coverage
+Quest 8 :
+<li>stablecoin</li>
+          <li>Lending Platform</li>
+         <li> Test and coverage</li>
+</br>
 
-
-Quest 9 : Private network
-      Command line wallet
+Quest 9 : 
+<li> Private network</li>
+     <li> Command line wallet</li>
