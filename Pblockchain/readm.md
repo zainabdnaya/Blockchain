@@ -1,10 +1,10 @@
 Quest 2 :
- <li>basicWallet</li>
-<li>generateAdress</li>
+ <li>basicWallet</li>  //done
+<li>generateAdress</li> //done
 
 </br>
 
-Quest 6 : 
+Quest 6 :
           <li>Usable token</li>
           <li>Basic Swap</li>
           <li>Eventful token</li>
@@ -19,4 +19,3 @@ Quest 7 :
 Quest 8 :
          <li> Test and coverage</li>
 </br>
-

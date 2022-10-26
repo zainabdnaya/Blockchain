@@ -6,7 +6,7 @@ function generateAddress() {
     namedCurve: 'secp256k1',
     publicKeyEncoding: {
         type: 'spki',
-        format: 'pem'
+        format: 'der'
     },
     privateKeyEncoding: {
         type: 'pkcs8',
